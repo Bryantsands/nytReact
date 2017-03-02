@@ -1,0 +1,20 @@
+{
+  "name": "nytreact",
+  "version": "1.0.0",
+  "description": "A React Based New York Times Article Search application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bryantsands/nytReact.git"
+  },
+  "author": "Bryant Sands",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bryantsands/nytReact/issues"
+  },
+  "homepage": "https://github.com/Bryantsands/nytReact#readme"
+}
